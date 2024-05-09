@@ -6,5 +6,10 @@ This project implements a text summarization model using transformer-based archi
 - Python 3.x
 - PyTorch
 - Keras
+- transformers
+- Pandas
+- Numpy
+- Math
+- 
 
 ## Usage
